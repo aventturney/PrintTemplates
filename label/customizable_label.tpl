@@ -35,7 +35,7 @@ Set any of the options in this section from 'false' to 'true' in order to enable
 {% set normal_top_margin = '0px' %}
 {% set normal_right_margin = '0px' %}
 {% set normal_bottom_margin = '0px' %}
-{% set normal_left_margin = '0px' %}
+{% set normal_left_margin = '5px' %}
 
 {# For Vertical:   Negative numbers move up, positive move down
    For Horizontal: Negative numbers move right, positive move left #}
